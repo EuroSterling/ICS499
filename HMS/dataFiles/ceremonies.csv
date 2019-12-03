@@ -1,0 +1,34 @@
+id,Employee,Floor #,Room #,Occupied,Alert,Status
+1,Joe Smith,1,100,Yes,Do Not Disturb,Clean
+2,Rose Gost,1,101,Yes,Do Not Disturb,Clean
+3,Nancy William,1,102,Yes,Make Up My Room,Un-Cleaned
+4,Frances Cabrera,1,103,No,,
+5,Refugio Blackburn,1,104,No,,
+6,Marcellus Pena,1,105,Yes,,
+7,Chance Craig,1,106,Yes,Make Up My Room,Un-Cleaned
+8,Beverly Ross,1,107,Yes,,
+9,George Maynard,1,108,Yes,,
+10,Alisha Snow,1,109,No,,
+11,Marshall Frank,2,200,No,,
+12,Dorothy Conley,2,201,Yes,Make Up My Room,Clean
+13,Forrest Bush,2,202,Yes,,
+14,Foster Fletcher,2,203,Yes,Do Not Disturb,Un-Cleaned
+15,Augusta Sims,2,204,Yes,,
+16,Clarice Santana,2,205,No,,
+17,Sol Chandler,2,206,No,,
+18,Madeline Silva,2,207,Yes,,
+19,Dannie Glover,2,208,Yes,,
+20,Sarah Hoover,2,209,Yes,,
+21,Melvin Perry,3,300,Yes,Make Up My Room,
+22,Winston Church,3,301,No,,
+23,Lorna Ingram,3,302,No,,
+24,Pam Russell,3,303,Yes,Do Not Disturb,Clean
+25,Max Sellers,3,304,Yes,,
+26,Lois Houston,3,305,Yes,,
+27,Lydia Henderson,3,306,Yes,,
+28,Hyman Cross,3,307,No,,
+29,Esmeralda Doyle,3,308,No,,
+30,Celeste Roach,3,309,Yes,,
+,,,,,,
+,,,,,,
+,,,,,,
